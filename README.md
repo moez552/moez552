@@ -4,7 +4,7 @@ Experienced Full Stack Engineer | Passionate about creating seamless user experi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/moez-zhioua/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-9cf)](https://github.com/your-github-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://your-portfolio-website.com)
+[![Portfolio](https://img.shields.io/badge/Upwork-Connect-success)](https://www.upwork.com/freelancers/moezz)
 
 ## Contact
 - 📞 Phone: +216 26850493
