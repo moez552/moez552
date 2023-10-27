@@ -8,13 +8,13 @@ Mainly a Full Stack Engineer.
 - ❤️ Proficient in Python, TypeScript, React, and Django.
 - 📚 Strong background in SaaS application development.
 - 🙏 Committed to building innovative solutions.
-- 📜 In the past:
+- 📜 Work Experience:
    - Full-Stack developer @ Lomavis - Social Media Tools, Germany
    - Full-Stack developer @ NNA Ressources, Tunis
    - Full-Stack developer @ Satoripop, QuickText, Tunis
    - Full-Stack developer @ Alfaprint, France
 
-- 🏆 Masters degree in Internet of things - Faculty of Sciences, Tunisia (2022)
+- 🏆 Masters degree in Internet of things - Faculty of Sciences, Tunisia (2024)
 - 🏆 Bachelor degree in computer sciences - Faculty of Sciences, Tunisia (2021)
 
 You can also find me on:
