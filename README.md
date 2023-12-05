@@ -9,6 +9,7 @@ Mainly a Full Stack Engineer.
 - 📚 Strong background in SaaS application development.
 - 🙏 Committed to building innovative solutions.
 - 📜 Work Experience:
+   - Full-Stack developer @ Xtrades, United States
    - Full-Stack developer @ Lomavis - Social Media Tools, Germany
    - Full-Stack developer @ NNA Ressources, Tunis
    - Full-Stack developer @ Satoripop, QuickText, Tunis
