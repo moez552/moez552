@@ -1,24 +1,22 @@
 ### Hey there 👋
 
-My name is Moez Zhioua.
+I’m Moez Zhioua, Automation expert and Full Stack Engineer.
 
-Mainly a Full Stack Engineer.
-
-- 🔬 Passionate about creating efficient and scalable applications.
-- ❤️ Proficient in Python, TypeScript, React, and Django.
-- 📚 Strong background in SaaS application development.
-- 🙏 Committed to building innovative solutions.
-- 📜 Work Experience:
+- 🔧 I build efficient, scalable systems that automate slow, manual workflows.
+- ⚙️ Skilled in Python, TypeScript, React, Django, and N8N for end-to-end automation solutions.
+- 📈 Experience turning complex processes into reliable SaaS tools.
+- 🚀 Worked with startups, agencies, and enterprises to save time and boost scale.
+- 📜 Professional background:
    - Full-Stack developer @ Xtrades, United States
    - Full-Stack developer @ Lomavis - Social Media Tools, Germany
    - Full-Stack developer @ NNA Ressources, Tunis
    - Full-Stack developer @ Satoripop, QuickText, Tunis
    - Full-Stack developer @ Alfaprint, France
 
-- 🏆 Masters degree in Internet of things - Faculty of Sciences, Tunisia (2024)
-- 🏆 Bachelor degree in computer sciences - Faculty of Sciences, Tunisia (2021)
+- 🎓 Masters in Internet of Things - Faculty of Sciences, Tunisia (2024)
+- 🎓 Bachelor in Computer Science - Faculty of Sciences, Tunisia (2021)
 
-You can also find me on:
+Find me on:
 - [Upwork](https://www.upwork.com/freelancers/moezz)
 - [LinkedIn](https://www.linkedin.com/in/moez-zhioua/)
-- [My Personal Website](https://www.moezzhioua.com/)
+- [Personal Website](https://www.moezzhioua.com/)
