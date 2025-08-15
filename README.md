@@ -12,10 +12,10 @@ I’m Moez Zhioua, Automation Architect and Full Stack Engineer.
 * 🚀 Helped startups, agencies, and enterprises cut hours of work and grow faster through automation.
 
 * 📜 Professional background:
-
-  * Automation Engineer @ Xtrades, United States
+  
   * Automation Architect @ Fairpattern
-  * Full-Stack Developer @ Lomavis – Social Media Tools, Germany
+  * Automation Engineer @ Xtrades, United States
+  * Full-Stack Engineer @ Lomavis – Social Media Tools, Germany
   * Full-Stack Developer @ NNA Ressources, Tunis
   * Full-Stack Developer @ Satoripop, QuickText, Tunis
   * Full-Stack Developer @ Alfaprint, France
