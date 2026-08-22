@@ -24,8 +24,15 @@ I’m Moez Zhioua, Automation Architect and Full Stack Engineer.
 
 * 🎓 Bachelor in Computer Science – Faculty of Sciences, Tunisia (2021)
 
+Current work and research:
+
+* [LeanOrchestr](https://www.leanorchestr.com/) – automation, connected business software, and operational AI systems
+* [OutreachGenie](https://www.outreachgenie.ai/) – a workspace for systematic LinkedIn prospecting and outreach
+* [Innovate Blog](https://innovate-blog.com/) – practical field notes on automation, AI, and governance
+* [ORCID](https://orcid.org/0009-0004-7149-6290) · [ICAART 2026 paper](https://doi.org/10.5220/0014336500004052)
+
 Find me on:
 
 * [Upwork](https://www.upwork.com/freelancers/moezz)
 * [LinkedIn](https://www.linkedin.com/in/moez-zhioua/)
-* [Personal Website](https://www.moezzhioua.com/)
+* [Personal Website](https://moezzhioua.com/)
