@@ -28,7 +28,6 @@ Current work and research:
 
 * [LeanOrchestr](https://www.leanorchestr.com/) – automation, connected business software, and operational AI systems
 * [OutreachGenie](https://www.outreachgenie.ai/) – a workspace for systematic LinkedIn prospecting and outreach
-* [Innovate Blog](https://innovate-blog.com/) – practical field notes on automation, AI, and governance
 * [ORCID](https://orcid.org/0009-0004-7149-6290) · [ICAART 2026 paper](https://doi.org/10.5220/0014336500004052)
 
 Find me on:
